@@ -1,4 +1,10 @@
 .wrapper {
     background: pink;
     padding: 10px;
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+}
+.boton1 {
+    width: 100px;
 }
